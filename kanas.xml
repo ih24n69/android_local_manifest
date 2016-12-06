@@ -58,7 +58,7 @@
 
 	<project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" revision="cm-13.0"/>
 
-	<project path="kernel/samsung/kanas" name="ih24n69/android_kernel_samsung_kanas" remote="origin" revision="cm-13.0"/>
+	<project path="kernel/samsung/kanas" name="ih24n69/android_kernel_samsung_kanas" remote="origin" revision="master"/>
 
 	<project path="device/samsung/kanas" name="ih24n69/android_device_samsung_kanas" remote="origin" revision="cm-13.0"/>
 
