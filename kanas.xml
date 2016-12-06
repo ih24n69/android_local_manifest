@@ -64,7 +64,7 @@
 
 	<project path="vendor/samsung/kanas" name="ih24n69/android_vendor_samsung_kanas" remote="origin" revision="cm-13.0"/>
 
-	<project path="hardware/sprd" name="ngoquang2708/android_hardware_sprd" remote="private" revision="cm-13.0"/>
+	<project path="hardware/sprd" name="ih24n69/android_hardware_sprd-kanas" remote="origin" revision="master"/>
 
 	<project path="device/samsung/sprd-common" name="ngoquang2708/android_device_samsung_sprd-common" remote="private" revision="cm-13.0"/>
 
